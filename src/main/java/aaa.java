@@ -1,3 +1,3 @@
 public class aaa {
-    private Integer id;
+    private Integer id=10;
 }
